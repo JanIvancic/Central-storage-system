@@ -27,7 +27,7 @@ Softver mora imati mogućnost zapisivanje sve nove opreme (dodavanje jedinstveno
 ## Zadatak
 [Korisnički zahtjevi - registar opreme](https://github.com/foivz/pi22-zadace-jivancic20/blob/1bdb6b381cdc4904468e75086686b06791e1aa42/Korisni%C4%8Dki%20zahtjevi%20-%20registar%20opreme.pdf)
 
-[link](./Korisnički zahtjevi - registar opreme.md)
+[link](./Korisnički zahtjevi - registar opreme.pdf)
 
 ## Resursi
 Github Markdown sintaksa dostupna je na [ovom linku](https://guides.github.com/features/mastering-markdown/) ali i na Moodleu u sekciji Zadaće.
