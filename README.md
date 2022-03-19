@@ -25,7 +25,7 @@ Potrebno je izraditi softver koji će omogućiti zaposlenicima fakulteta i samoj
 Softver mora imati mogućnost zapisivanje sve nove opreme (dodavanje jedinstvenog identifikatora) uz određene detalje kao što su: tko je zaprimio opremu, datum i vrijeme zaprimanja, naziv projekta, naziv, vrsta i opis opreme. Pregledavanje popisa opreme mora bit dostupno svim zaposlenicima fakulteta i moraju imati mogućnost rezervacije opreme. Kod posudbe opreme, zapisuje se popis posuđene opreme, tko je izdao i tko je posudio opremu, razlog posudbe i očekivani datum vraćanja. Zaposlenici moraju imati mogućnost vidjeti popis opreme te svoje rezervacije i popis aktivnih i prošlih posudbi. Zaposlenici skladišta trebaju moći periodično izraditi izvještaj o postojećoj opremi u skladištu i dostaviti ga upravi fakulteta.
 
 ## Zadatak
-[link](../Korisnički zahtjevi - registar opreme.pdf)
+[link](pi22-zadace-jivancic20/Korisnički zahtjevi - registar opreme.pdf)
 
 ## Resursi
 Github Markdown sintaksa dostupna je na [ovom linku](https://guides.github.com/features/mastering-markdown/) ali i na Moodleu u sekciji Zadaće.
