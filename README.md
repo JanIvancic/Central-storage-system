@@ -1,7 +1,7 @@
 # Inicijalne upute za izradu zadaća
 Poštovane kolegice i kolege, 
 
-čestitamo vam jer ste uspješno kreirali **repozitorij** koji ćete koristiti za pišanje vaših zadaća, što će uključivati izradu dokumentacije ali i programskog koda.
+čestitamo vam jer ste uspješno kreirali **repozitorij** koji ćete koristiti za pisanje vaših zadaća, što će uključivati izradu dokumentacije ali i programskog koda.
 
 Molim vas izmijenite ovaj dokument kako bi u njega naveli naziv i kratak opisa projekta koji obrađujete u vašim zadaćama, kao i vaše osobne podatke. Za upute o sintaksi koju možete koristiti u ovom dokumentu i kod pisanje vaše projektne dokumentacije pogledajte [ovaj link](https://guides.github.com/features/mastering-markdown/) ali i upute o sintaksi koji će uskoro biti dostupan na Moodle-u. 
 
