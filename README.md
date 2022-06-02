@@ -1,6 +1,9 @@
 # **Softver za evidentiranje tehničke opreme i licenci u vlasništvu fakulteta**
 (u redak iznad navedite naziv projekta kojeg ste dobili za analizu)
 
+#PODACI ZA PRIJAVU U SUSTAV U 3. ZADAĆI
+# Korisničko ime: jivancic, lozinka: test 
+
 ## Podaci o studentu
 (ispod promijenite samo drugi redak tablice)
 
