@@ -9,7 +9,7 @@
 
 Ime i prezime | E-mail adresa (FOI) |    JMBAG    | Github korisničko ime
 ------------  | ------------------- | ----------- | ---------------------
-Jan Ivančić   | jivancic20@foi.hr   | 0016150494  | jivancic20
+Jan Ivančić   | jivancic20@foi.hr   | **********  | jivancic20
 
 
 ## Opis domene
